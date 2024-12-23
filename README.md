@@ -1,3 +1,5 @@
+# https://qr-payment-system-jogendra-singh.streamlit.app/
+
 # AI-Powered QR Code Payment System
 This project demonstrates a prototype for an AI-powered QR Code-based account payee system for retail banking. It allows users to generate QR codes for payments, simulate transactions, and validate them for fraud detection.
 
